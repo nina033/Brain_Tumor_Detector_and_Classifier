@@ -30,3 +30,5 @@ Run the Application: Launch the app with the following command
 ```
 streamlit run app.py
 ```
+<img width="1470" alt="Screenshot 2025-01-26 at 9 20 56 PM" src="https://github.com/user-attachments/assets/83ff528a-1d37-4bcb-a36d-76e48679ad90" />
+
