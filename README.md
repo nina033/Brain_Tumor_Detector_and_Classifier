@@ -1,5 +1,7 @@
 # Overview
 This web application is designed to assist neurologists, neuro-oncologists, and neurosurgeons in detecting brain tumors and classifying them into categories such as No Tumor, Glioma, Meningioma, and Pituitary. It provides explanatory insights and detailed reports to support early diagnosis, helping medical professionals make informed decisions.
+Want to see the detailed demo and dive deeper into the project’s future improvements? Check it out here: [link]
+
 # Getting Started
 Install the requirements, add your API key to your .env file and run the program
 
