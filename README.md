@@ -30,10 +30,10 @@ Run the Application: Launch the app with the following command
 ```
 streamlit run app.py
 ```
-![One](https://github.com/user-attachments/assets/9fa6c8e2-f4b8-45c7-8e14-1f0975ee87c4)
+![9D451712-2BC3-49BE-ABBF-35CBF2599441_1_201_a](https://github.com/user-attachments/assets/ad525f72-d14b-48d6-ba94-ccb4a64e0ff5)
 ![Two](https://github.com/user-attachments/assets/cf834c97-c4d7-40ae-8277-ac7a0dd8dca0)
 ![Three](https://github.com/user-attachments/assets/cae66239-5f75-487a-aa14-96085b91e825)
-![Four](https://github.com/user-attachments/assets/e4716d19-714f-4414-b704-c29ab077762f)
+![1775C127-5C39-43DD-AC90-B04AF5F24847_1_201_a](https://github.com/user-attachments/assets/63c31bb4-5ed6-4633-ac23-50cab93f9bc2)
 ![Five](https://github.com/user-attachments/assets/7c300cbc-cf53-46d8-8c98-1d7c68f62389)
 
 
